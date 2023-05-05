@@ -3,10 +3,10 @@
  # steps to be followed to setup KVM :
 
 1. Install Vmware from 
-    - https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html
+      - https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html
     
 2. Install Centos 7 Disc image from
-    - http://centos.excellmedia.net/7.9.2009/isos/x86_64/ ( CentOS-7-x86_64-DVD-2009.iso )
+      - http://centos.excellmedia.net/7.9.2009/isos/x86_64/ ( CentOS-7-x86_64-DVD-2009.iso )
     
 3. Now, download and setup the Vmware and Centos .
 
